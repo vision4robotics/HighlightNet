@@ -37,7 +37,6 @@ Email: changhongfu@tongji.edu.cn
 >     ```
 >     python lowlight_test.py
 >     ```
->     
 >     You can find the enhanced images in data/result/. Some examples have been put in this folder.
 >   
 >3. For training, run:
